@@ -7,7 +7,7 @@
 
 If we consider time frame for full cycle as well.
 
-# For SAX output will be HxWxDXT(224x224x12x25)
+# SAX HxWxDXT(224x224x12x25) e,g: T=25(full cycle)
 
 # LAX(2CH,3CH,4CH) HxWxDxT(224x224x1x25) e,g: T=25(full cycle)
 
