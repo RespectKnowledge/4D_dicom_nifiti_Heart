@@ -16,13 +16,13 @@ LAX_2ch_4ch_dicom_nifiti_allpatients_alltimeframes.py
 SAX_dicom_nifiti_all_subject_all_timeframes.py
 
 
-# For 3D LAX run this
+# For 3D (only for first time frame) LAX run this
 
 LAX_2ch_4ch_dicom_nifiti_allpatients_alltimeframes.py
 
-# For 3D SAX run this
+# For 3D (only for first time frame) SAX run this
 
-SAX_dicom_nifiti_all_subject_all_timeframes.py
+SAX_dicom_nifiti_all_subject_all_firstframe.py
 
 
 
