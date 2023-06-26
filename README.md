@@ -12,11 +12,11 @@ If we consider time frame for full cycle as well.
 # LAX(2CH,3CH,4CH) HxWxDxT(224x224x1x25) e,g: T=25(full cycle)
 
 
-# For 4D LAX run this
+# For 4D (Full Cycle) LAX run this
 
 LAX_2ch_4ch_dicom_nifiti_allpatients_alltimeframes.py
 
-# For 4D SAX run this
+# For 4D (Full Cycle) SAX run this
 
 SAX_dicom_nifiti_all_subject_all_timeframes.py
 
