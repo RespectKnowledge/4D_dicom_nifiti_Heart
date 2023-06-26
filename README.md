@@ -18,11 +18,17 @@ SAX_dicom_nifiti_all_subject_all_timeframes.py
 
 # For 3D (only for first time frame) LAX run this
 
-LAX_2ch_4ch_dicom_nifiti_allpatients_alltimeframes.py
+LAX_2ch_4ch_dicom_nifiti_allpatients_firstframe.py
 
 # For 3D (only for first time frame) SAX run this
 
 SAX_dicom_nifiti_all_subject_all_firstframe.py
+
+# Data sample is provided for one patient as an example. You can set folder or directory according to your dataset.
+
+Any question, please email me
+engr.qayyum@gmail.com
+a.qayyum@imperial.ic.ac.uk
 
 
 
