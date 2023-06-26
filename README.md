@@ -6,6 +6,11 @@ For 3D case we have output for SAX (HxWXD) e,g: 224x224x13 and for LAX(2CH,3CH,4
 
 If we consider time frame as well.For SAX output will be HxWxDXT(224x224x12x25) and LAX(2CH,3CH,4CH) HxWxDxT(224x224x1x25)
 
-for 4D LAX run this
+
+#for 4D LAX run this
+
 LAX_2ch_4ch_dicom_nifiti_allpatients_alltimeframes.py
-for 4D SAX run this
+
+#for 4D SAX run this
+
+SAX_dicom_nifiti_all_subject_all_timeframes.py
